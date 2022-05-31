@@ -1,0 +1,15 @@
+#productCount{
+    padding: 3px;
+    font-size: 16px;
+    background-color: chocolate;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+}
+.image{
+    width: 100px;
+    height: 100px;
+}
+.icon{
+    cursor: pointer;
+}
